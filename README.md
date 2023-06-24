@@ -31,9 +31,10 @@
   
   
   
-  <a href="https://github.com/devGEP">
+  <!--<a href="https://github.com/devGEP">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=devGEP&theme=gotham" height="180"/>
   </a>
+  -->
   
   ![Footer](https://capsule-render.vercel.app/api?type=waving&color=8BC6D3&height=100&section=footer)
 </div>
