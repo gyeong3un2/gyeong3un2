@@ -24,7 +24,6 @@
   <img alt="VSCode" src ="https://img.shields.io/badge/VSCODE-007ACC.svg?&style=for-the-badge&logo=VisualStudioCode&logoColor=white"/>
   <img alt="Gitkraken" src ="https://img.shields.io/badge/GITKRAKEN-179287.svg?&style=for-the-badge&logo=GITKRAKEN&logoColor=white"/>
   <br/>
-  <hr/>
   <br/>
   
 <!--   ![devGEP's GitHub stats](https://github-readme-stats.vercel.app/api?username=devGEP&show_icons=true&theme=gotham&width=500)
