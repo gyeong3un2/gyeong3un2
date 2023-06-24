@@ -23,8 +23,9 @@
   <img alt="Postman" src ="https://img.shields.io/badge/PostMan-FF6C37.svg?&style=for-the-badge&logo=Postman&logoColor=white"/>
   <img alt="VSCode" src ="https://img.shields.io/badge/VSCODE-007ACC.svg?&style=for-the-badge&logo=VisualStudioCode&logoColor=white"/>
   <img alt="Gitkraken" src ="https://img.shields.io/badge/GITKRAKEN-179287.svg?&style=for-the-badge&logo=GITKRAKEN&logoColor=white"/>
-
-
+  <br/>
+  <hr/>
+  <br/>
   
 <!--   ![devGEP's GitHub stats](https://github-readme-stats.vercel.app/api?username=devGEP&show_icons=true&theme=gotham&width=500)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats) -->
