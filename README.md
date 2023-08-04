@@ -4,12 +4,15 @@
   ![header](https://capsule-render.vercel.app/api?type=Waving&text=GyeongEun-Park&color=8BC6D3&height=150)
 
   <h3>🛠 Tech Stack 🛠</h3>
+  <img alt="tailwindcss" src="https://img.shields.io/badge/tailwind css-06B6D4?style=for-the-badge&logo=tailwind css&logoColor=white">
   <img alt="HTML5" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/>
   <img alt="CSS" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/>
   <img alt="JAVASCRIPT" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"/>
   <img alt="TYPESCRIPT" src ="https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white"/>
   <br/>
   <img alt="React" src ="https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white"/>
+  <img alt="Vite" src="https://img.shields.io/badge/vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+  <br/>
   <img alt="Recoil" src ="https://img.shields.io/badge/Recoil-0075EB.svg?&style=for-the-badge&logo=Revolut&logoColor=white"/>
   <br/>
   <img alt="Docker" src ="https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white"/>
