@@ -1,6 +1,6 @@
 <!-- # devGEP -->
 
-# 🙋🏻‍♂️ Hello There! 👨🏻‍💻
+# 🙋🏻‍♀️ Hello There! 👩🏻‍💻
 
 
 I'm devGEP, Frontend Developer who's always awake.
