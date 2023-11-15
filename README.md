@@ -9,11 +9,17 @@ I'm devGEP, Frontend Developer who's always awake.
 ![devGEP's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=starcradle101&show_icons=true&theme=default)
 ![devGEP's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=starcradle101&show_icons=true&theme=default)
 
+<br>
+
 ## 📚 Blog 📚
 [Tistory](https://jasmine.tistory.com/)
 
+<br>
+
 ## 📱 Contact 📱
 ✉️ Mail: gyeong3un2@gmail.com
+
+<br>
 
 ## ⚙️ Once I've Used ⚙️
 <div style="display:flex; flex-direction:row;">
