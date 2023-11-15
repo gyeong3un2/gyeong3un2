@@ -5,7 +5,7 @@
 
 I'm devGEP, Frontend Developer who's always awake.
 
-<!-- ![devGEP's GitHub stats](https://github-readme-stats.vercel.app/api?username=devGEP&show_icons=true&theme=gotham&width=500) -->
+![devGEP's GitHub stats](https://github-readme-stats.vercel.app/api?username=devGEP&show_icons=true&theme=gotham&width=500)
 ![devGEP's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=devGEP&show_icons=true&theme=default)
 ![devGEP's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=devGEP&show_icons=true&theme=default)
 
