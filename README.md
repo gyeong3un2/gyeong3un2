@@ -1,13 +1,11 @@
 <!-- # devGEP -->
 
-# 🙋🏻‍♀️ Hello There! 👩🏻‍💻
+# Hello There! 👩🏻‍💻
 
 
-I'm devGEP, Frontend Developer who's always awake.
+I'm KyeongEun Park, Frontend Developer who's always awake.
 
-<!-- ![devGEP's GitHub stats](https://github-readme-stats.vercel.app/api?username=devGEP&show_icons=true&theme=gotham&width=500) -->
-![devGEP's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=devGEP&show_icons=true&theme=default)
-![devGEP's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=devGEP&show_icons=true&theme=default)
+
 
 <br>
 
@@ -17,7 +15,7 @@ I'm devGEP, Frontend Developer who's always awake.
 <br>
 
 ## 📱 Contact 📱
-✉️ Mail: gyeong3un2@gmail.com
+✉️ Mail: kyeongeun.dev@gmail.com
 
 <br>
 
